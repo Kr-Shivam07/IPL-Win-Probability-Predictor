@@ -1,0 +1,11 @@
+Hardware Used - 10th gen Intel i7-1065G7
+                16GB DDR4 Memory
+                512GB PCIe NVMe SSD
+                Windows 10 (81X1002SUS) Platinum Greyz
+                
+Software Used - Python - 3.9.13
+                Anaconda navigator - 2.3.1
+                Jupyter - 1.0.0
+                Jupyter lab - 1.18.1
+                Matplotlib - 3.5.2
+                Streamlit - 1.22.0
